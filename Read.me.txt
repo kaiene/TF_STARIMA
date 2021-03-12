@@ -1,0 +1,14 @@
+Olá. Este repositório contém os códigos utilizados no Trabalho de Formatura:
+Aplicação de STARIMA para Previsão de Tráfego de Curto Prazo - Um Estudo de Caso na Av. 23 de Maio 
+(AURÉLIO, M., DOMINGUES, K., TRINTINALIA, M., 2021).
+
+Ele contém quatro arquivos:
+
+> dados.csv: Um arquivo exemplo para testes das rotinas, contendo dados de volume de tráfego de 4 radares para o dia 14/03/2018.
+> Space-Time ARIMA.Rmd: Arquivo com as rotinas utilizadas para elaboração do trabalho.
+> Testes de Funcoes de Identificacao. Rmd: Arquivo com as rotinas utilizadas para os testes de verificação da veracidade
+do código do arquivo anterior, realizados durante a elaboração do trabalho.
+> Aplicação de STARIMA em Tráfego de Curto Prazo - TF2.pdf: Dissertação do trabalho.
+
+Além deles, foi elaborado uma interface gráfica do código, que pode ser encontrada em: https://kaiene.shinyapps.io/STARIMA/
+
